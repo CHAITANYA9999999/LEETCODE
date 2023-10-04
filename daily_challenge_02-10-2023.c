@@ -1,3 +1,4 @@
+
 int len = strlen(colors);
     int countA = 0, countB = 0;
 
