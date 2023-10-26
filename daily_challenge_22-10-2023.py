@@ -10,4 +10,5 @@ class Solution:
                 left-=1
             min_val = min(min_val,nums[left],nums[right])
             max_score = max(max_score,min_val*(right-left+1))
-        return max_score
+        return max_scoredaily_challenge_26-10-2023.py
+    
