@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -28,5 +29,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0735-asteroid-collision) |
+## String
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
