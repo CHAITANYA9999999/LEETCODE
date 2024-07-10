@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0162-find-peak-element) |
 | [0300-longest-increasing-subsequence](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0735-asteroid-collision](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1720-crawler-log-folder](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Recursion
@@ -36,12 +37,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0394-decode-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0735-asteroid-collision) |
+| [1720-crawler-log-folder](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## String
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0394-decode-string) |
 | [1250-longest-common-subsequence](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1250-longest-common-subsequence) |
+| [1720-crawler-log-folder](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
 | ------- |
