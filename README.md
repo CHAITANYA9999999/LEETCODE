@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-crawler-log-folder](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0726-number-of-atoms](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0726-number-of-atoms) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Matrix
 |  |
 | ------- |
