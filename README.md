@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0328-odd-even-linked-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
@@ -87,19 +88,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Sorting
