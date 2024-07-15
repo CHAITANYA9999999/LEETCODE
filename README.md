@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0735-asteroid-collision) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0969-number-of-recent-calls](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -128,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0289-game-of-life) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
