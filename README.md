@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Binary Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Sorting
 |  |
