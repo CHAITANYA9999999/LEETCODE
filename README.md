@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
@@ -104,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0173-binary-search-tree-iterator](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
