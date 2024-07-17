@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
 | [0162-find-peak-element](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0162-find-peak-element) |
 | [0289-game-of-life](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
 | [0726-number-of-atoms](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2846-robot-collisions) |
 ## Greedy
