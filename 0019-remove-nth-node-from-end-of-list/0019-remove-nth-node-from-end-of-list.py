@@ -5,6 +5,8 @@ class Solution(object):
         
         length = 0
         temp = head
+
+        #FINDING LENGTH OF LINKED LIST
         while temp:
             length+=1
             temp = temp.next
@@ -12,14 +14,11 @@ class Solution(object):
         prev = dummy
         cur = head
         next = cur.next
+        #
         for i in range(length-n):
             prev = cur
             cur = next
             next = next.next
-        
-        if not next:
-            prev.next = None
-            return dummy.next
         
         prev.next = next
         return dummy.next
