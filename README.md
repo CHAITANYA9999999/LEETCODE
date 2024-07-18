@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0328-odd-even-linked-list) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0143-reorder-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
