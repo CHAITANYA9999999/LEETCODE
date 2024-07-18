@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0143-reorder-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0394-decode-string) |
 | [0726-number-of-atoms](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0726-number-of-atoms) |
@@ -91,12 +93,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0143-reorder-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0328-odd-even-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
+| [0143-reorder-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0143-reorder-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
