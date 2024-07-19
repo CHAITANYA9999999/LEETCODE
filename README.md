@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
 | [0735-asteroid-collision](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0907-koko-eating-bananas](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1207-delete-nodes-and-return-forest](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1720-crawler-log-folder) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0162-find-peak-element) |
 | [0287-find-the-duplicate-number](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0907-koko-eating-bananas](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0907-koko-eating-bananas) |
 ## Dynamic Programming
 |  |
 | ------- |
