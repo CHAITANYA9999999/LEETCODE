@@ -1,7 +1,6 @@
 class Solution {
     public int rob(int[] nums) {
         if(nums.length<=3) return findMax(nums);
-        System.out.println(nums.length);
         int[] dp1 = new int[nums.length-1];
         int[] dp2 = new int[nums.length-1];
 
@@ -16,7 +15,6 @@ class Solution {
             dp2[i] = Math.max(dp2[i-2]+nums[i+1],dp2[i-1]);
         }
         return Math.max(dp1[dp1.length-1],dp2[dp2.length-1]);
-        
     }
 
     public int findMax(int[] nums){
