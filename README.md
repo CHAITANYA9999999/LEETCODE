@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
 | [0735-asteroid-collision](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0735-asteroid-collision) |
 | [1207-delete-nodes-and-return-forest](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1720-crawler-log-folder](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0289-game-of-life) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
