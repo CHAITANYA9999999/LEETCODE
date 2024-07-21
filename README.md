@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1803-average-waiting-time](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2472-build-a-matrix-with-conditions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2846-robot-collisions) |
 ## Recursion
 |  |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0289-game-of-life) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
+| [2472-build-a-matrix-with-conditions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
+| [2472-build-a-matrix-with-conditions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 ## Shortest Path
 |  |
 | ------- |
@@ -227,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0148-sort-list) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
