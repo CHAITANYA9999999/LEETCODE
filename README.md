@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
+| [0073-set-matrix-zeroes](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0162-find-peak-element](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0726-number-of-atoms](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0289-game-of-life) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
