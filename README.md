@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0075-sort-colors) |
 | [0162-find-peak-element](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0213-house-robber-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0287-find-the-duplicate-number) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0148-sort-list) |
 | [0726-number-of-atoms](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
