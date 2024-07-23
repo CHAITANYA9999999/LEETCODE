@@ -7,9 +7,9 @@ class Solution(object):
             if frequency not in freqs:
                 freqs[frequency] = []
             print(num,frequency)
-            bisect.insort(freqs[frequency],num)
+            freqs[frequency].append(num)
         res = []
         for frequency in sorted(freqs.keys()):
-            for num in reversed(freqs[frequency]):
+            for num in sorted(freqs[frequency],reverse = True):
                 res.extend([num]*frequency)
         return res
