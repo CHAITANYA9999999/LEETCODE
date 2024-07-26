@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0647-palindromic-substrings](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1250-longest-common-subsequence) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Design
 |  |
 | ------- |
@@ -238,11 +239,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2472-build-a-matrix-with-conditions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
+| [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bit Manipulation
 |  |
 | ------- |
