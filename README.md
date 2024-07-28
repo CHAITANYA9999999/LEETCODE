@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 ## Binary Tree
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2472-build-a-matrix-with-conditions](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2472-build-a-matrix-with-conditions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Shortest Path
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2171-second-minimum-time-to-reach-destination](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/3235-minimum-cost-to-convert-string-i) |
 ## Bit Manipulation
 |  |
