@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0078-subsets) |
 | [0134-gas-station](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0134-gas-station) |
 | [0162-find-peak-element](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0198-house-robber) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0078-subsets) |
 | [0287-find-the-duplicate-number](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
@@ -271,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0238-product-of-array-except-self) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
