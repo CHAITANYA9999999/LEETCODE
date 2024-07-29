@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0735-asteroid-collision](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0735-asteroid-collision) |
 | [0907-koko-eating-bananas](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [1207-delete-nodes-and-return-forest](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0148-sort-list) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0726-number-of-atoms](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0726-number-of-atoms) |
 | [1333-sort-the-jumbled-numbers](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0134-gas-station) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Hash Table
