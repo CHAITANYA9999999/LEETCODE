@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-delete-nodes-and-return-forest](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1333-sort-the-jumbled-numbers](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1511-count-number-of-teams) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1720-crawler-log-folder](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1250-longest-common-subsequence](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1250-longest-common-subsequence) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1511-count-number-of-teams) |
 ## Design
 |  |
 | ------- |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0078-subsets) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
