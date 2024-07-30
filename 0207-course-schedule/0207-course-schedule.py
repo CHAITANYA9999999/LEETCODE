@@ -7,10 +7,8 @@ class Solution:
                 self.graph[course] = set()
             self.graph[course].add(prerequisite)
         for i in range(numCourses):
-            print(i)
             if not self.checkIfCanFinish(i,[False]*numCourses):
                 return False
-            print("abracadabra")
         return True
     
     def checkIfCanFinish(self,node,visited):
