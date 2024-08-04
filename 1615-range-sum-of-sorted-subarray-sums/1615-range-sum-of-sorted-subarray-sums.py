@@ -2,7 +2,6 @@ class Solution:
     def rangeSum(self, nums: List[int], n: int, left: int, right: int) -> int:
         subarray_sum = []
         MOD = 10**9 + 7
-        n = len(nums)
 
         for i in range(n):
             cur_sum = 0
