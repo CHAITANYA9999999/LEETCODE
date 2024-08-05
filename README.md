@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0038-count-and-say) |
 | [0091-decode-ways](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0091-decode-ways) |
+| [0151-reverse-words-in-a-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0394-decode-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
 | [0647-palindromic-substrings](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0148-sort-list) |
+| [0151-reverse-words-in-a-string](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0287-find-the-duplicate-number) |
 | [0647-palindromic-substrings](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1615-range-sum-of-sorted-subarray-sums) |
