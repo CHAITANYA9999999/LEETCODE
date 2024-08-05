@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0075-sort-colors) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0143-reorder-list) |
 | [0173-binary-search-tree-iterator](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0091-decode-ways](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0198-house-robber) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0075-sort-colors) |
 | [0143-reorder-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0148-sort-list) |
@@ -339,4 +343,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
