@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0012-integer-to-roman) |
 | [0273-integer-to-english-words](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0273-integer-to-english-words) |
+| [0870-magic-squares-in-grid](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [1086-divisor-game](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0735-asteroid-collision](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0735-asteroid-collision) |
+| [0870-magic-squares-in-grid](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0907-koko-eating-bananas](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [1196-filling-bookcase-shelves](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1196-filling-bookcase-shelves) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0138-copy-list-with-random-pointer) |
 | [0726-number-of-atoms](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0726-number-of-atoms) |
+| [0870-magic-squares-in-grid](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [1207-delete-nodes-and-return-forest](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -275,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0289-game-of-life](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0289-game-of-life) |
+| [0870-magic-squares-in-grid](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0870-magic-squares-in-grid) |
 | [0921-spiral-matrix-iii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/0921-spiral-matrix-iii) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
