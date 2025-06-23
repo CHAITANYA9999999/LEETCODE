@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1086-divisor-game) |
 | [1642-water-bottles](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2202-sum-of-k-mirror-numbers](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -384,4 +385,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2163-kth-distinct-string-in-an-array](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+## Enumeration
+|  |
+| ------- |
+| [2202-sum-of-k-mirror-numbers](https://github.com/CHAITANYA9999999/LEETCODE/tree/master/2202-sum-of-k-mirror-numbers) |
 <!---LeetCode Topics End-->
